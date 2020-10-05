@@ -1,7 +1,7 @@
 # We Are The Discovery & Mastery Based Education Working Group.
 
-- [Published Specs]()
-- [Specs Source Repo]()
+- [Published Specs](https://discovery-and-mastery-working-group.github.io/discovery-and-mastery-working-group-specs/)
+- [Specs Source Repo](https://github.com/discovery-and-mastery-working-group/discovery-and-mastery-working-group-specs)
 
 We are an open Working Group founded to develop specifications towards the design of educational programs based on discovery and mastery centered learning.
 - Our aim is to develop open and complete specifications by which educational programs can be designed.
@@ -18,7 +18,7 @@ Our specs are all early draft stage and very rough, but we think the orientation
 We're Free and Open Source
 --------------------------
 
-All our specifications and analysis published to the repo are licensed under the [MIT Open Source Licence]()
+All our specifications and analysis published to the repo are licensed under the MIT Open Source Licence.
 
 We welcome you to send us your ideas for how we can improve our specs.
 
