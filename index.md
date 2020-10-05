@@ -15,4 +15,17 @@ It's early days and we've just begun.
 
 Our specs are all early draft stage and very rough, but we think the orientation of our approach is a good one and we hope there are at least some good ideas there.
 
-Go ahead and check out the Specs, and please feel free to post any ideas you have as Issues to the repo, or even give it a Pull Request if you'd like to contribute.
+We're Free and Open Source
+--------------------------
+
+All our specifications and analysis published to the repo are licensed under the [MIT Open Source Licence]()
+
+We welcome you to send us your ideas for how we can improve our specs.
+
+You can even contribute directly to the project as a contributor or possibly join the Working Group proper!
+
+And if you like what we've done but what to go your own way, that's great too.
+
+Just head over to our source repo on GitHub and get stuck in.
+
+Anyway that these ideas can grow, evolve and be used is good to is!
