@@ -1,4 +1,4 @@
-# We Are The Discovery & Mastery Based Education Working Group.
+## We Are The Discovery & Mastery Based Education Working Group.
 
 - [Published Specs](https://discovery-and-mastery-working-group.github.io/discovery-and-mastery-working-group-specs/)
 - [Specs Source Repo](https://github.com/discovery-and-mastery-working-group/discovery-and-mastery-working-group-specs)
